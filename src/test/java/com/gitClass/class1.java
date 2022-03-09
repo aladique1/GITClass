@@ -1,19 +1,23 @@
 package com.gitClass;
 
 public class class1 {
-	private void cricket() {
+	public void cricket() {
+		System.out.println("Cricket");
 
 	}
 
-	private void football() {
+	public void football() {
+		System.out.println("Football");
 
 	}
 
-	private void volleyball() {
+	public void volleyball() {
+		System.out.println("Volleyball");
 
 	}
 
-	private void baseball() {
+	public void baseball() {
+		System.out.println("Baseball");
 
 	}
 }
